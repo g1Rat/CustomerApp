@@ -17,7 +17,6 @@ import java.util.Date;
 
 public class Common {
 
-
     public static String getCurrentDateDay() {
         Date current = new Date();
         SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
