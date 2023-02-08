@@ -13,8 +13,6 @@ import androidx.core.app.ActivityCompat;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
-
 public class Common {
 
     public static String getCurrentDateDay() {
